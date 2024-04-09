@@ -48,11 +48,20 @@ Obtaining Your API Key and Database ID
 
 ### Setting Up Environment Variables
 
-Create a .env file in the root directory of your project. Add the following lines, replacing the placeholders with your actual API key and database ID:
+Create a .env file in the root directory of your project.
+Add the following lines, replacing the placeholders with your actual API key and database ID:
 
 ```bash
-NOTION_API_KEY=<Your_Notion_API_Key>
-NOTION_DATABASE_ID=<Your_Notion_Database_ID>
+NOTION_API_KEY = <Your_Notion_API_Key>
+NOTION_DATABASE_ID = <Your_Notion_Database_ID>
+```
+
+And for github repository details:
+
+```bash
+GITHUB_OWNER = <GITHUB_OWNER>
+GITHUB_REPO = <YOUR_GITHUB_REPO_NAME>
+GITHUB_PATH = <YOU_GITHUB_REPO_FILEPATH>
 ```
 
 ## Contributing

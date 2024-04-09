@@ -80,4 +80,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 If you find this project useful, please consider giving it a star on GitHub. This helps increase its visibility and shows support for the work that has gone into making it. Additionally, if you appreciate the internship listings curated by the [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) repository, don't forget to star their project as well. Your support makes a big difference!
 
-Thank you for taking the time to explore our project, and we hope it serves you well in your search for exciting internship opportunities.
+Thank you for taking the time to explore my project, and I hope it serves you well in your search for exciting internship opportunities.

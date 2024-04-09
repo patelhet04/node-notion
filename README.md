@@ -64,6 +64,13 @@ GITHUB_REPO = <YOUR_GITHUB_REPO_NAME>
 GITHUB_PATH = <YOU_GITHUB_REPO_FILEPATH>
 ```
 
+## Project Customization
+
+- This service is set to fetch and show openings that contain **"Software"** keyword in the role field.
+- It shows internship listing from **January 2024 till today**.
+- After cloning the project on your local machine, you can dive into the code to understand its structure and customize it according to your needs.
+- Whether you're looking to adjust the filtering logic or expand the functionality, the project is designed to be flexible for further development.
+
 ## Contributing
 
 We welcome contributions to this project! Please feel free to fork the repository, make your changes, and submit a pull request.
